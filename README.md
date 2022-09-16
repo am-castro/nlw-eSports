@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center">
 <img src="./assets/img/nlw-esports-logo.svg" alt="Next Level Week Esports Logo"/></p>
 
@@ -59,3 +60,6 @@ $ npm run dev
 
 
 
+=======
+# nlw-eSports
+>>>>>>> 5450b6f21416fa682c864c983613019585783c66
